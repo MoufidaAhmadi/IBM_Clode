@@ -1,0 +1,45 @@
+{
+    "output": {
+      "generic": [
+        {
+          "values": [
+            {
+              "text": "Nous vous invitons à visiter <a href=\"https://www.gdcollect-data.fr/blog/\">notre blog</a>"
+            }
+          ],
+          "response_type": "text",
+          "selection_policy": "sequential"
+        },
+        {
+          "title": " Ce sont les services les plus courants",
+          "options": [
+            {
+              "label": "Chatbots intelligents",
+              "value": {
+                "input": {
+                  "text": "Chatbots intelligents"
+                }
+              }
+            },
+            {
+              "label": " Développement d'applications web et smartphones",
+              "value": {
+                "input": {
+                  "text": " Développement d'applications web et smartphones"
+                }
+              }
+            },
+            {
+              "label": "Cours de formation en ligne",
+              "value": {
+                "input": {
+                  "text": "Cours de formation en ligne"
+                }
+              }
+            }
+          ],
+          "response_type": "option"
+        }
+      ]
+    }
+  }
