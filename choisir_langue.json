@@ -1,0 +1,37 @@
+{
+    "output": {
+      "generic": [
+        {
+          "title": "Please choose your language:",
+          "options": [
+            {
+              "label": "Français",
+              "value": {
+                "input": {
+                  "text": "Je veux utiliser le français"
+                }
+              }
+            },
+            {
+              "label": "Anglais",
+              "value": {
+                "input": {
+                  "text": "I want to use English"
+                }
+              }
+            },
+            {
+              "label": "Arabe",
+              "value": {
+                "input": {
+                  "text": "أريد استخدام اللغة العربية"
+                }
+              }
+            }
+          ],
+          "response_type": "option"
+        }
+      ]
+    },
+    "context": {}
+  }
