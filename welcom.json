@@ -1,0 +1,21 @@
+{
+    "output": {
+      "generic": [
+        {
+          "values": [
+            {
+              "text": "Hello ! 👋 I am your asistant , imkerbot default ? "
+            },
+            {
+              "text": "Bonjour !👋  Je suis votre assistant, imkerbot par défaut ?"
+            },
+            {
+              "text": "افتراضيًا؟  ، imkerbot مرحبًا!👋 أنا مساعدك"
+            }
+          ],
+          "response_type": "text",
+          "selection_policy": "random"
+        }
+      ]
+    }
+  }
