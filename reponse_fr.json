@@ -1,0 +1,45 @@
+{
+    "output": {
+      "generic": [
+        {
+          "values": [
+            {
+              "text": "Notre entreprise est une société d'innovation technologique dans le domaine des logiciels, offrant des solutions administratives et organisationnelles pour soutenir les entreprises dans leur transformation numérique"
+            }
+          ],
+          "response_type": "text",
+          "selection_policy": "sequential"
+        },
+        {
+          "title": "",
+          "options": [
+            {
+              "label": "Contactez-nous",
+              "value": {
+                "input": {
+                  "text": "Contactez-nous"
+                }
+              }
+            },
+            {
+              "label": "Nos services",
+              "value": {
+                "input": {
+                  "text": "Nos services"
+                }
+              }
+            },
+            {
+              "label": "Notre blog",
+              "value": {
+                "input": {
+                  "text": "Notre blog"
+                }
+              }
+            }
+          ],
+          "response_type": "option"
+        }
+      ]
+    }
+  }
